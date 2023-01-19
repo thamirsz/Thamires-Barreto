@@ -6,14 +6,15 @@
 <table>
     <tr>
          <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirsz&hide=html&layout=compact&theme=buefy" /></td>
-        
+         
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=thamirsz&theme=buefy"/></td>      
         
      
    
 </table>
 </center>  
 
-
+---
 ### Olá, seja bem-vindo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 _Me chamo Thamires, no final de 2022 comecei a estudar progrmação e tenho me dedicado ao meu crescimento. Recentemente inciei uma graduação 
 em Análise e Desenvolvimento de Sistemas._
@@ -22,7 +23,7 @@ em Análise e Desenvolvimento de Sistemas._
 _Meu animal favorito é o rato 🐀 gosto muito de Sushi 🍣 e de assistir doramas no tempo livre._
 _Me considero uma pessoa reservada mas isso não significa que eu não seja sociável, muito pelo contrário, estou sempre aberta a amizades._
 
-
+---
 #### Onde me encontrar 🔍
 
 No momento só estou usando o LikedIn, então se quiser contectar comigo fique a vontade.  
