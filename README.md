@@ -38,5 +38,5 @@ No momento só estou usando o LikedIn, então se quiser contectar comigo fique a
  
  
  
-![](https://komarev.com/ghpvc/?username=thamirsz&color=blue&style=flat 
+![](https://komarev.com/ghpvc/?username=thamirsz&color=blue&style=flat) 
 
