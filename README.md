@@ -1,4 +1,5 @@
-<a href="https://ibb.co/Jynb2NG"><img src="https://i.ibb.co/cCJptPZ/Design-sem-nome-1.png" alt="capa do perfil" border="0"></a>
+![capa-do-perfil](https://github.com/leticiadasilva/thamirsz/blob/main/Capa-do-perfil.png)  
+
 
 
 
