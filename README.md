@@ -14,4 +14,4 @@
 </center>  
 
 
-### Seja bem-vindo :raised_hand:
+### Olá, seja bem-vindo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
