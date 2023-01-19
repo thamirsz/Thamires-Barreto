@@ -27,4 +27,5 @@ _Me considero uma pessoa reservada mas isso não significa que eu não seja soci
 
 No momento só estou usando o LikedIn, então se quiser contectar comigo fique a vontade.    
 <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons"></a> [LinkedIn](https://www.linkedin.com/in/thamires-barreto)  
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Smashicons - Flaticon</a>
 
