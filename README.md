@@ -25,7 +25,7 @@ _Me considero uma pessoa reservada mas isso não significa que eu não seja soci
 
 #### Onde me encontrar 🔍
 
-No momento só estou usando o LikedIn, então se quiser contectar comigo fique a vontade.
-<img src="https://github.com/thamirsz/thamires-barreto/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/thamires-barreto/)  
+No momento só estou usando o LikedIn, então se quiser contectar comigo fique a vontade. </n>
+çkfndçk
 
 
