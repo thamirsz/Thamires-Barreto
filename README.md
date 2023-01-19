@@ -1,4 +1,4 @@
-![capa-do-perfil](https://github.com/leticiadasilva/thamirsz/blob/main/Capa-do-perfil.png)  
+Thamires.png 
 
 
 
