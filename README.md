@@ -1,4 +1,4 @@
-![ ] (https://github.com/thamirsz/Thamires-Barreto/blob/b3acc20585140ad91304f101561603aaf7f0009e/Thamires.png)
+![](https://github.com/thamirsz/Thamires-Barreto/blob/b3acc20585140ad91304f101561603aaf7f0009e/Thamires.png)
 
 
 
