@@ -9,6 +9,6 @@
         <td><![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thamirsz&show_icons=true)></td>
         
      
-     
+    </tr>
 </table>
 </center>  
