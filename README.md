@@ -6,7 +6,8 @@
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirsz&hide=html&layout=compact&theme=buefy" /></td>
-        <td><[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thamirsz)](https://github.com/thamirsz/github-readme-stats)></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?thamirsz&theme=buefy"/></td>
+    </tr>   
     </tr>   
 </table>
 </center>  
