@@ -28,6 +28,15 @@ _Me considero uma pessoa reservada mas isso não significa que eu não seja soci
 No momento só estou usando o LikedIn, então se quiser contectar comigo fique a vontade.  
 
 
-<a href="https://www.linkedin.com/in/thamires-barreto"><img src="https://user-images.githubusercontent.com/110778956/213531910-6f49ff03-b9bb-45ba-b341-759d50c01f12.png"
- width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/thamires-barreto)
+<a href="https://www.linkedin.com/in/thamires-barreto"><img src="https://user-images.githubusercontent.com/110778956/213531910-6f49ff03-b9bb-45ba-b341-759d50c01f12.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/thamires-barreto)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+![](https://komarev.com/ghpvc/?username=thamirsz&color=blue&style=flat 
 
