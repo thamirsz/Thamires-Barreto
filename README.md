@@ -9,5 +9,6 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=thamirsz&theme=buefy"/></td>
     </tr>   
     </tr>   
+    </tr>   
 </table>
 </center>  
