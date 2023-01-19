@@ -1,4 +1,4 @@
-Thamires.png 
+![] (https://github.com/thamirsz/Thamires-Barreto/blob/41664b5217f8a572d64e2b7808c8326b3accb8eb/capa-do-perfil.png)
 
 
 
