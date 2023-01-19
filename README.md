@@ -23,3 +23,9 @@ _Meu animal favorito é o rato 🐀 gosto muito de Sushi 🍣 e de assistir dora
 _Me considero uma pessoa reservada mas isso não significa que eu não seja sociável, muito pelo contrário, estou sempre aberta a amizades._
 
 
+#### Onde me encontrar 🔍
+
+No momento só estou usando o LikedIn, então se quiser contectar comigo fique a vontade.
+<a href="https://www.linkedin.com/in/thamires-barreto/"><img src="https://github.com/thamirsz/thamires-barreto/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/thamires-barreto/)  
+
+
