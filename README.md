@@ -21,7 +21,7 @@ _Me chamo Thamires, no final de 2022 comecei a estudar progrmação e tenho me d
 em Análise e Desenvolvimento de Sistemas._
 
 
-_Meu animal favorito é o rato 🐀 gosto muito de Sushi 🍣 e de assistir doramas no tempo livre._
+_Meu animal favorito é o rato 🐀 gosto desenhar e assistir doramas no tempo livre._
 _Me considero uma pessoa reservada mas isso não significa que eu não seja sociável, muito pelo contrário, estou sempre aberta a amizades._
 
 ---
