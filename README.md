@@ -17,7 +17,7 @@
 
 ---
 ### Olá, seja bem-vindo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-_Me chamo Thamires, no final de 2022 comecei a estudar progrmação e tenho me dedicado ao meu crescimento. Recentemente inciei uma graduação 
+_Me chamo Thamires, no final de 2022 comecei a estudar programação e tenho me dedicado ao meu crescimento. Recentemente inciei uma graduação 
 em Análise e Desenvolvimento de Sistemas._
 
 
