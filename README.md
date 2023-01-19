@@ -1,4 +1,4 @@
-<a href="https://ibb.co/QQZcDzW"><img src="https://i.ibb.co/PjRYD32/Thamires.png" alt="capa do perfil"  border="0" align="center"></a>
+<a href="https://ibb.co/Jynb2NG"><img src="https://i.ibb.co/cCJptPZ/Design-sem-nome-1.png" alt="capa do perfil" border="0"></a>
 
 
 
