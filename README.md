@@ -3,7 +3,7 @@
 
 
 
-<center>
+
 # 💫 Sobre mim:
 Me chamo Thamires, no final de 2022 comecei a estudar programação e tenho me dedicado ao meu crescimento. Recentemente inciei uma graduação em Análise e Desenvolvimento de Sistemas.<br><br>Meu animal favorito é o rato 🐀 gosto desenhar e assistir doramas no tempo livre. Me considero uma pessoa reservada mas isso não significa que eu não seja sociável, muito pelo contrário, estou sempre aberta a amizades.<br><br>
 
