@@ -4,7 +4,7 @@
 
 
 # 💫 Sobre mim:
-Me considero uma pessoa muito prática. Gosto de desafios e não tenho medo de correr riscos. Tenho um talento natural para resolver problemas rapidamente e sou uma pensadora lógica, o que me ajuda a encontrar soluções práticas para os desafios que encontro.<br>Sou muito energética e gosto de estar em movimento. Adoro esportes e atividades físicas, e também gosto de experimentar coisas novas e ter aventuras. Sou muito competitiva, o que me motiva a sempre dar o meu melhor.
+Me considero uma pessoa muito prática. Gosto de desafios e não tenho medo de correr riscos. Tenho um talento natural para resolver problemas rapidamente e sou uma pensadora lógica, o que me ajuda a encontrar soluções práticas para os desafios que encontro.Sou muito energética e gosto de estar em movimento. Adoro esportes e atividades físicas, e também gosto de experimentar coisas novas e ter aventuras. Sou muito competitiva, o que me motiva a sempre dar o meu melhor.
 
 
 ## 🌐 Socials:
