@@ -3,23 +3,24 @@
 
 
 
-
 # 💫 Sobre mim:
-Me chamo Thamires, no final de 2022 comecei a estudar programação e tenho me dedicado ao meu crescimento. Recentemente inciei uma graduação em Análise e Desenvolvimento de Sistemas.<br><br>Meu animal favorito é o rato 🐀 gosto de resolver problemas de lógica no rachacuca e assistir doramas no tempo livre. Me considero uma pessoa reservada mas isso não significa que eu não seja sociável, muito pelo contrário, estou sempre aberta a amizades.<br><br>
+Me considero uma pessoa muito prática. Gosto de desafios e não tenho medo de correr riscos. Tenho um talento natural para resolver problemas rapidamente e sou uma pensadora lógica, o que me ajuda a encontrar soluções práticas para os desafios que encontro.<br>Sou muito energética e gosto de estar em movimento. Adoro esportes e atividades físicas, e também gosto de experimentar coisas novas e ter aventuras. Sou muito competitiva, o que me motiva a sempre dar o meu melhor.
 
 
-## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamires-barreto/) 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thamires-barreto/) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thamirsz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=thamirsz&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thamirsz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirsz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirsz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+---
 ---
 [![](https://visitcount.itsvg.in/api?id=thamirsz&icon=0&color=0)](https://visitcount.itsvg.in)
 
