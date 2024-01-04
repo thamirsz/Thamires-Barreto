@@ -3,9 +3,6 @@
 
 
 
-# 💫 Sobre mim:
-Me considero uma pessoa muito prática, gosto de desafios e não tenho medo de correr riscos. Tenho um talento natural para resolver problemas rapidamente e sou uma pensadora lógica, o que me ajuda a encontrar soluções práticas para os desafios que encontro. Adoro esportes e atividades físicas, e também gosto de experimentar coisas novas e ter aventuras. Sou muito competitiva, o que me motiva a sempre dar o meu melhor.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thamires-barreto/) 
